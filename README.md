@@ -1,4 +1,10 @@
-# Harlem
+# Code the Dream public records
+
+This repository contains public documents for the charity that was incorporated in 2008 as Uniting NC, Inc. and which ooperates today as Code the Dream, Inc.
+
+---
+
+## Harlem
 
 ### BY LANGSTON HUGHES
 
@@ -15,6 +21,4 @@
             Maybe it just sags
             like a heavy load.
 
-            _Or does it explode?_
-
-This repository contains public documents relating the nonprofit incorporated as Uniting NC, Inc. and dba Code the Dream, Inc. today
+            *Or does it explode?*
